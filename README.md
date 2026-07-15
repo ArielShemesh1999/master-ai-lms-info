@@ -7,7 +7,7 @@
 
 ## 🌐 Live Site
 
-### Coming soon — Vercel deployment in progress
+**[master-ai-lms.vercel.app](https://master-ai-lms.vercel.app)**
 
 ---
 
