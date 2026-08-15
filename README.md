@@ -4,10 +4,6 @@
 
 **Live:** [master-ai-lms.vercel.app](https://master-ai-lms.vercel.app)
 
-<p align="center">
-  <img src="assets/preview.webp" alt="master-ai-lms — the live site" width="100%">
-</p>
-
 Each lesson carries an overview with takeaways, a 12-18 beat transcript, a five-question quiz, a runnable code exercise and an interactive demo; the eight tool-facing lessons add a terminal - 155 quiz questions in all, sourced from Anthropic Academy courses and the platform docs, not synthetic filler.
 
 ## Running a whole course out of `localStorage`
